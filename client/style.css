@@ -1,0 +1,17 @@
+#proxy {
+  padding-top: 24px;
+  padding-left: 84px;
+  padding-right: 84px;
+  max-width: 1370px;
+  margin: auto;
+}
+
+#calendar {
+  float: right;
+  padding-top: 48px;
+  width: 320px;
+}
+
+#reviews {
+  padding-top: 24px;
+}
