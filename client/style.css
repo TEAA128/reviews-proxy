@@ -2,16 +2,26 @@
   padding-top: 24px;
   padding-left: 84px;
   padding-right: 84px;
-  max-width: 1370px;
+  max-width: 1300px;
   margin: auto;
+  font-family: 'Nunito Sans', Arial, sans-serif;;
+  background-color: white;
+}
+
+#photogallery {
 }
 
 #calendar {
   float: right;
   padding-top: 48px;
   width: 320px;
+  margin-right: auto;
 }
 
 #reviews {
   padding-top: 24px;
+}
+
+#carousel {
+  padding-bottom: 24px;
 }
